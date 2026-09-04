@@ -48,3 +48,10 @@ Prior to joining Kyung Hee University, he held research professor positions at Y
 - **2017**: The Best Teaching Award (College of Liberal Arts, Yonsei University)
 - **2016**: The Best Teaching Award (College of Engineering, Yonsei University)
 - **2015**: The Best Teaching Award (College of Liberal Arts, Yonsei University)
+
+
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
