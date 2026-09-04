@@ -1,0 +1,20 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <strong>{{ site.title | escape }}</strong>
+        </p>
+        <p>{{ site.description | escape }}</p>
+      </div>
+
+      <div class="footer-col">
+        <p>서울특별시 동대문구 경희대로 26</p>
+        <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
