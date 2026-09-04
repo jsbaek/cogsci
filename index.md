@@ -10,7 +10,8 @@ hide_title: true
 > Yet God left no source code, no manual for the human mind. So humanity dared to begin a project to decompile its own mind - a project called Psychology. Eventually, I joined it.
 
 
-Welcome to the Laboratory of Cognitive Science. The lab is managed by **Dr. Jongsoo Baek**, Associate Professor in the Department of Philosophy at Kyung Hee University.
+
+Welcome to the Laboratory of Cognitive Science. The lab is managed by Dr. Jongsoo Baek, Associate Professor in the Department of Philosophy at Kyung Hee University.
 
 Our research explores the core mechanisms of human visual perception, attention, and cognitive processing, bridging empirical cognitive science with computational modeling. Drawing from a strong background in psychology and brain and cognitive sciences, we investigates how the human visual system processes complex information under capacity limitations.
 
