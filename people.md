@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-hide_title: true   # 또는 show_title: false
+hide_title: true
 ---
 
 ## PI: Jongsoo Baek, Ph.D
