@@ -1,6 +1,7 @@
 theme: minima
 title: Laboratory of Cognitive Science
 description: Laboratory of Cognitive Science at Kyung Hee University
+email: Jongsoo.Baek@khu.ac.kr
 header_pages:
   - research.md
   - people.md
