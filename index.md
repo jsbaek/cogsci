@@ -13,6 +13,6 @@ hide_title: true
 
 Welcome to the Laboratory of Cognitive Science. The lab is managed by Dr. Jongsoo Baek, Associate Professor in the Department of Philosophy at Kyung Hee University.
 
-Our research explores the core mechanisms of human visual perception, attention, and cognitive processing, bridging empirical cognitive science with computational modeling. Drawing from a strong background in psychology and brain and cognitive sciences, we investigates how the human visual system processes complex information under capacity limitations.
+Our research explores the core mechanisms of human visual perception, attention, and cognitive processing, bridging empirical cognitive science with computational modeling. Drawing from a strong background in psychology and brain and cognitive sciences, we investigate how the human visual system processes complex information under capacity limitations.
 
 A central focus of the lab involves developing advanced methodological frameworks—particularly Bayesian adaptive procedures like the quick contrast sensitivity function and partial-report methods—to efficiently estimate psychometric functions and visual performance. Beyond foundational visual psychophysics, I am also interested in ensemble perception, spatial cueing, and cognitive-emotional interactions, such as memory trade-offs for emotional faces and perceptual biases in social anxiety. This site serves as a hub for sharing my ongoing research projects, publications, and academic resources.
