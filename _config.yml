@@ -1,3 +1,7 @@
 theme: minima
 title: Laboratory of Cognitive Science
 description: Laboratory of Cognitive Science at Kyung Hee University
+header_pages:
+  - research.md
+  - people.md
+  - joinus.md
