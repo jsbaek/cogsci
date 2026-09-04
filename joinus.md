@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Join Us
-hide_title: true
 ---
 
 ## Opportunity for Undergraduate RA
