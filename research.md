@@ -3,10 +3,7 @@ layout: page
 title: Research
 ---
 
-## Research Overview
 Our research focuses on visual perception and its computational modeling, investigating the fundamental mechanisms of human visual information processing, attention, and perceptual organization. To capture these complex processes efficiently, I specialize in developing advanced Bayesian adaptive procedures—such as the quick contrast sensitivity function and partial-report methods—for psychometric function estimation. Furthermore, my recent work extends to exploring the interplay between visual attention, ensemble perception, and cognitive-emotional processing, including memory trade-offs for emotional faces and statistical representations of emotion in social anxiety.
-
----
 
 ## Publications
 
@@ -35,8 +32,6 @@ Our research focuses on visual perception and its computational modeling, invest
 - **Baek, J.**, Kham, K., Kim, M.-S. (2007). Spatial attention can enhance or impair visual temporal resolution. *Korean Journal of Cognitive Science*, 18(3), 285-303.
 - **Baek, J.**, & Kim, M.-S. (2005). Memory in Visual Search: Evidence from search efficiency. *Korean Journal of Cognitive Science*, 16(1), 1-15.
 
----
-
 ## Conference Presentations
 
 - Chong, S. C., & **Baek, J.** (May, 2018). *A distributed attention model of mean size computation*. Vision Sciences Society (VSS) Annual Meeting, St. Pete Beach, FL.
@@ -50,8 +45,6 @@ Our research focuses on visual perception and its computational modeling, invest
 - **Baek, J.**, Yi, D.-J., & Kim, M.-S. (May, 2006). *Increasing perceptual difficulty reveals implicit spatial memory*. Vision Sciences Society (VSS) Annual Meeting, Sarasota, FL.
 - **Baek, J.**, Kham, K.–T., & Kim, M.-S. (November, 2005). *Spatial attention can enhance or impair visual temporal resolution*. Annual meeting of the Psychonomic Society, Toronto, Canada.
 
----
-
 ## Invited Talks and Seminar
 
 - **Baek, J.** (October, 2024). *Visual Attention in Human Information Processing: Roles and Mechanisms*. 2024 Academic Seminar of the Korean Society for Phenomenology, Seoul.
@@ -64,16 +57,12 @@ Our research focuses on visual perception and its computational modeling, invest
 - **Baek, J.** (May, 2017). *Programing Psychological Experiments using PsychoPy*. Korean Society for Clinical Psychology Annual Meeting, Changwon, Korea.
 - **Baek, J.** (January, 2016). *Contrast Sensitivity Function*. Korean Society for Cognitive and Biological Psychology Annual Meeting, Jeju, Korea.
 
----
-
 ## Patents
 
 - **SAT model estimation method and apparatus.**  
   Park, H.-J. & **Baek, J.** Korea Patent 10-2276884 (2021)
 - **Method of generating an adaptive partial report and apparatus for implementing the same.**  
   Lu, Z. L., **Baek, J.**, & Lesmes, L. A. US Patent 10,646,155 (2020)
-
----
 
 ## Grants
 
@@ -94,11 +83,3 @@ Our research focuses on visual perception and its computational modeling, invest
   - Period: June, 2017 – May, 2020
   - Role: Principal Investigator
   - Amount: 150,000,000 KRW
-
----
-
-## Contact
-
-- **Address:** 26, Kyungheedae-ro, Dongdaemun-gu, Seoul (02447)
-- **TEL:** +82-02-961-0373
-- **E-MAIL:** Jongsoo.Baek@khu.ac.kr

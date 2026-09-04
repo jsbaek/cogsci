@@ -1,6 +1,5 @@
 ---
 layout: page
-title: People
 ---
 
 # PI: Jongsoo Baek, Ph.D
