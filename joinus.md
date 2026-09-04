@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us
-hide_title: true   # 또는 show_title: false
+hide_title: true
 ---
 
 ## Opportunity for Undergraduate RA
