@@ -1,10 +1,12 @@
 ---
 layout: page
+title: People
+hide_title: true   # 또는 show_title: false
 ---
 
-# PI: Jongsoo Baek, Ph.D
+## PI: Jongsoo Baek, Ph.D
 
-## Bio
+### Bio
 
 Jongsoo Baek is an Associate Professor in the Department of Philosophy at Kyung Hee University, bringing a rigorous scientific background to the intersection of cognitive science and philosophy. He earned his B.A., M.A., and Ph.D. in Psychology from Yonsei University and the University of Southern California (USC), specializing in cognitive psychology, brain and cognitive science, and visual psychophysics.
 
@@ -46,8 +48,3 @@ Prior to joining Kyung Hee University, he held research professor positions at Y
 - **2017**: The Best Teaching Award (College of Liberal Arts, Yonsei University)
 - **2016**: The Best Teaching Award (College of Engineering, Yonsei University)
 - **2015**: The Best Teaching Award (College of Liberal Arts, Yonsei University)
-
-### Contact
-- **Address**: 26, Kyungheedae-ro, Dongdaemun-gu, Seoul (02447)
-- **TEL**: +82-02-961-0373
-- **E-MAIL**: Jongsoo.Baek@khu.ac.kr

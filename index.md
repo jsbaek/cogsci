@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Home
+hide_title: true   # 또는 show_title: false
 ---
 
 
