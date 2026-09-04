@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join Us
+permalink: /joinus/
 ---
 
 ## Opportunity for Undergraduate RA
