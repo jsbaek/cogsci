@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-show_title: false
+permalink: /people/
 ---
 
 ## PI: Jongsoo Baek, Ph.D
