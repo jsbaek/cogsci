@@ -1,14 +1,15 @@
 ---
 layout: home
 title: Home
-hide_title: true
 ---
 
 
 > *"Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being. <Gen 2:7 NIV>"*
->
-> Yet God left no source code, no manual for the human mind. So humanity dared to begin a project to decompile its own mind - a project called Psychology. Eventually, I joined it.
 
+Yet God left no source code, no manual for the human mind. So humanity dared to begin a project to decompile its own mind - a project called Psychology. Eventually, I joined it.
+
+
+---
 
 
 Welcome to the Laboratory of Cognitive Science. The lab is managed by Dr. Jongsoo Baek, Associate Professor in the Department of Philosophy at Kyung Hee University.

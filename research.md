@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Research
+<<<<<<< HEAD
 show_title: false
+=======
+permalink: /research/
+>>>>>>> 57dc7a43d105a9b5747fa92d501a79f38cac1cc3
 ---
 
 Our research focuses on visual perception and its computational modeling, investigating the fundamental mechanisms of human visual information processing, attention, and perceptual organization. To capture these complex processes efficiently, I specialize in developing advanced Bayesian adaptive procedures — such as the quick contrast sensitivity function and partial-report methods — for psychometric function estimation. Furthermore, my recent work extends to exploring the interplay between visual attention, ensemble perception, and cognitive-emotional processing, including memory trade-offs for emotional faces and statistical representations of emotion in social anxiety.
