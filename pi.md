@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PI
+title: Principal Investigator
 permalink: /people/pi/
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/pi/
 sub_menu:
-  - title: PI
+  - title: Principal Investigator
     url: /people/pi/
   - title: Graduate Student
     url: /people/graduate/
