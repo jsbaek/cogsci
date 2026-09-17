@@ -6,7 +6,9 @@ permalink: /people/graduate/
 
 ## Juwhan Maeng
 
-Juhwan Maeng Bio Master’s student in Philosophy at Kyung Hee University, with a background in Philosophy and Software Convergence. Research interests include visual perception, attention, computational modeling, and Bayesian methods, with a current focus on facial emotion perception in social anxiety. 
+### Bio
+
+Master’s student in Philosophy at Kyung Hee University, with a background in Philosophy and Software Convergence. Research interests include visual perception, attention, computational modeling, and Bayesian methods, with a current focus on facial emotion perception in social anxiety.
 
 ### Current Position
 
