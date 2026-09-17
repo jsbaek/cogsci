@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+permalink: /people/pi/
 sub_menu:
   - title: PI
     url: /people/pi/
