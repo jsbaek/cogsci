@@ -18,8 +18,8 @@
           {%- if my_page.title -%}
             {%- if my_page.sub_menu -%}
               <!-- 서브메뉴가 있는 경우 (People) -->
-              <div class="nav-dropdown" style="display:inline-block; position:relative; margin-left: 20px;">
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <div class="nav-dropdown" style="display:inline-block; position:relative; margin-left: 20px;">
+                  <a class="page-link" href="{{ my_page.sub_menu.first.url | relative_url }}">{{ my_page.title | escape }}</a>
                 <div class="dropdown-content">
                   {%- for sub in my_page.sub_menu -%}
                     <a href="{{ sub.url | relative_url }}">{{ sub.title }}</a>
